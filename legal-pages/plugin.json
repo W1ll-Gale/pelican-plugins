@@ -5,8 +5,8 @@
     "version": "1.0.0",
     "description": "Adds some legal pages (like an Imprint) to the panel",
     "category": "plugin",
-    "url": "https://github.com/pelican-dev/plugins/tree/main/legal-pages",
-    "update_url": null,
+    "url": "https://hub.pelican.dev/plugins/legal-pages",
+    "update_url": "https://hub.pelican.dev/plugins/legal-pages/update.json",
     "namespace": "Boy132\\LegalPages",
     "class": "LegalPagesPlugin",
     "panels": [

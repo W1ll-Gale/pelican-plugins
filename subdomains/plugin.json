@@ -5,8 +5,8 @@
     "version": "1.0.0",
     "description": "Allows users to create subdomains for their servers",
     "category": "plugin",
-    "url": "https://github.com/pelican-dev/plugins/tree/main/subdomains",
-    "update_url": null,
+    "url": "https://hub.pelican.dev/plugins/subdomains",
+    "update_url": "https://hub.pelican.dev/plugins/subdomains/update.json",
     "namespace": "Boy132\\Subdomains",
     "class": "SubdomainsPlugin",
     "panels": [

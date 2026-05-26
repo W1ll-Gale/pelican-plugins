@@ -5,8 +5,8 @@
     "version": "1.0.0",
     "description": "Upload console logs to mclo.gs",
     "category": "plugin",
-    "url": "https://github.com/pelican-dev/plugins/tree/main/mclogs-uploader",
-    "update_url": null,
+    "url": "https://hub.pelican.dev/plugins/mclogs-uploader",
+    "update_url": "https://hub.pelican.dev/plugins/mclogs-uploader/update.json",
     "namespace": "Boy132\\MclogsUploader",
     "class": "MclogsUploaderPlugin",
     "panels": [

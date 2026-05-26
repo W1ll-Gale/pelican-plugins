@@ -5,8 +5,8 @@
     "version": "1.0.0",
     "description": "Easily download rust plugins from uMod",
     "category": "plugin",
-    "url": "https://github.com/pelican-dev/plugins/tree/main/rust-umod",
-    "update_url": null,
+    "url": "https://hub.pelican.dev/plugins/rust-umod",
+    "update_url": "https://hub.pelican.dev/plugins/rust-umod/update.json",
     "namespace": "Boy132\\RustUMod",
     "class": "RustUModPlugin",
     "panels": [
